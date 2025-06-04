@@ -1,4 +1,4 @@
-# FractalCompatibility
+ЭТО СЫРАЯ ВЕРСИЯ. НА ДАННЫЙ МОМЕНТ СИСТЕМА ГЛУБОКО ПЕРЕРАБОТАНА.Сформулирован матапарат формирующий ландшафт псиобраза для анализа выдаваемой информации личности на предмет ее достоверности. FractalCompatibility
 Triad Analyzer: Find compatibility through microsaccades, voice, and HRV. Public domain project inspired by ‘I don’t love you, I love myself in you.’
 # Triad Analyzer: Find Yourself in Others
 
